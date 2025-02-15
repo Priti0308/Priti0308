@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Priti Kadam
 
 - 👀 I’m interested in Web development, Java         Programming, MySQL & UI/UX designing.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently working on MERN
 - 📫 How to reach me pritikadam2325@gmail.com
 - ⚡ Fun fact: I am dramatic 🎭🤗
 - 👨‍💻 All of my projects are available at

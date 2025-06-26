@@ -4,7 +4,7 @@
 Explore my projects to see what I’ve been creating with Flutter, MERN, and more.
 📌 Always learning, building, and sharing on GitHub!
 - 🌱 I’m currently working on MERN and Flutter 
-- 📫 How to reach me pritikadam2325@gmail.com
+- 📫 How to reach me pritikadam0308@gmail.com
 - ⚡ Fun fact: I am dramatic 🎭🤗
 - 👨‍💻 All of my projects are available at
 - 📄 Know about my experiences View My Resume 
